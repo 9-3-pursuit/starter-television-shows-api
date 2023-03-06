@@ -1,6 +1,6 @@
 {
   "shows": [
-    {
+     {
       "id": "SLHUwyN",
       "type": "TV Show",
       "title": "Scream Queens",
@@ -89,9 +89,9 @@
       "type": "TV Show",
       "title": "The Twilight Zone",
       "country": "United States",
-      "dateAdded": "",
+      "dateAdded": "2/28/23",
       "releaseYear": 1959,
-      "rating": "TV-PG",
+      "rating": "PG-13",
       "duration": "5 Seasons",
       "listedIn": "Classics, Science Fiction, Thriller",
       "description": "Rod Serling's seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations."
@@ -1177,16 +1177,79 @@
       "description": "Revival of the iconic '70s series set in a London townhouse in the late 1930s. When Rose returns to Eaton Place as housekeeper she soon finds that in both 'upstairs' and 'downstairs' worlds lie a labyrinth of secrets, lies and scandal."
     },
     {
-      "id": "M8VeeTR",
+      "id": "M8VeeTR"
+    },
+    {
+      "id": "SMKWwyN",
       "type": "TV Show",
-      "title": "Whitechapel",
-      "country": "United Kingdom",
-      "dateAdded": "September 24, 2013",
-      "releaseYear": 2009,
+      "title": "Cache Money Coders",
+      "country": "United States",
+      "dateAdded": "3/3/23",
+      "releaseYear": 2023,
       "rating": "TV-14",
       "duration": "4 Seasons",
-      "listedIn": "Crime, Drama, International",
-      "description": "Modern Whitechapel is experiencing déjà vu with a series of murders that exactly copy those of perpetrated by Jack the Ripper. Can Detective Chandler, a rookie when it comes to murder cases, bring safety back to the streets of Whitechapel?"
+      "listedIn": "Documentary, Mystery",
+      "description": "Cache Money Coders is a new TV Show for Software Engineers to practice/sharpen their skills."
+    },
+    {
+      "id": "SLHUwyN",
+      "type": "TV Show",
+      "title": "Scream Queens",
+      "country": "United States",
+      "dateAdded": "",
+      "releaseYear": 2015,
+      "rating": "TV-14",
+      "duration": "2 Seasons",
+      "listedIn": "Comedy, Horror, Mystery",
+      "description": "SCREAM QUEENS is a new genre-bending comedy-horror anthology series. The series, produced by 20th Century Fox Television, is from Ryan Murphy, Brad Falchuk, Ian Brennan and Dante Di Loreto, the executive producers of GLEE and “American Horror Story.” The first installment in the new anthology series revolves around a college campus which is rocked by a series of murders."
+    },
+    {
+      "id": "nzhZVSK",
+      "type": "TV Show",
+      "title": "Star Trek: Deep Space Nine",
+      "country": "United States",
+      "dateAdded": "",
+      "releaseYear": 1995,
+      "rating": "TV-PG",
+      "duration": "7 Seasons",
+      "listedIn": "Action, Adventure, Science Fiction",
+      "description": "Star Trek: Deep Space Nine takes place in the mid 24th century and chronicles the adventures of a team of Starfleet officers who take command of a remote alien space station on the edge of a new frontier."
+    },
+    {
+      "id": "T5QqSps",
+      "type": "TV Show",
+      "title": "Star Trek: Enterprise",
+      "country": "United States",
+      "dateAdded": "",
+      "releaseYear": 2001,
+      "rating": "TV-PG",
+      "duration": "4 Seasons",
+      "listedIn": "Action, Adventure, Science Fiction",
+      "description": "Set in the 22nd century, nearly 100 years before James T. Kirk, ENTERPRISE takes place during the early pioneering days of deep space exploration, when interstellar travel is in its infancy and the United Federation of Planets is still decades away. Captain Jonathan Archer is the prototype for Starfleet captains to come; he’s bold, intensley curious and eager to venture where no man has gone before. Unlike the seasoned, sometimes unflappable officers of the 24th century, the crew of ENTERPRISE exhibits a sense of wonder and excitement, as well as a little trepidation about the strange things they’ll encounter. With their star charts mostly empty, they’ll have to prove they’re ready for life among the stars."
+    },
+    {
+      "id": "zFY2Q8y",
+      "type": "TV Show",
+      "title": "Star Trek: The Next Generation",
+      "country": "United States",
+      "dateAdded": "",
+      "releaseYear": 1989,
+      "rating": "TV-PG",
+      "duration": "7 Seasons",
+      "listedIn": "Action, Adventure, Classics",
+      "description": "Star Trek: The Next Generation (TNG) focuses on the 24th century adventures of Captain Jean-Luc Picard aboard the U.S.S. Enterprise (NCC-1701-D). This incarnation of the famous starship is much larger than the one captained by James T. Kirk a century earlier, and, accordingly, it carries a larger crew complement: 1,012 men, women…and, surprisingly, children. This era’s Starfleet Command believes that men and women are more likely to sign up for long-term exploratory missions if they think of their ship as home. Thus, Picard’s crew enjoys many of the comforts they’d have otherwise left behind, including a wide variety of recreational opportunities, “replicated” food dishes to suit every palate, and quarters large enough to share with spouses and offspring. There are schools for the children and a bar (stocked with synthetic alcohol, or synthehol) where the adults can unwind. However, the ongoing mission – no longer limited to a mere five years – remains virtually the same as it was during Kirk’s time: to seek out new life and new civilizations, and to boldly go where no one has gone before."
+    },
+    {
+      "id": "ZxJzBhp",
+      "type": "TV Show",
+      "title": "Star Trek: The Original Series",
+      "country": "United States",
+      "dateAdded": "",
+      "releaseYear": 1966,
+      "rating": "TV-PG",
+      "duration": "3 Seasons",
+      "listedIn": "Action, Adventure, Classics",
+      "description": "The 23rd century adventures of Captain James T. Kirk and the U.S.S. Enterprise (NCC-1701), a powerful interstellar spacecraft dispatched by Earth-based Starfleet Command to explore the galaxy. Kirk commands a crew of 430 men and women aboard his starship, which can travel at speeds surpassing the speed of light. Kirk's five-year mission – and his mandate from Starfleet – is to seek out new life and new civilizations, and to boldly go where no man has gone before."
     }
   ],
   "movies": [
@@ -1206,10 +1269,10 @@
       "id": "iY9zZuf",
       "type": "Movie",
       "title": "Silent Night",
-      "country": "",
-      "dateAdded": "October 23, 2021",
+      "country": "United States",
+      "dateAdded": "October 29, 2023",
       "releaseYear": 2020,
-      "rating": "",
+      "rating": "PG-13",
       "duration": "94 min",
       "listedIn": "Crime, Drama, Thriller",
       "description": "Mark, a low end South London hitman recently released from prison, tries to go straight for his daughter, but gets drawn back in by Alan, his former cellmate, to do one final job."
@@ -1350,11 +1413,11 @@
       "id": "0E7YoTX",
       "type": "Movie",
       "title": "BELLATOR MMA: Kongo vs. Johnson 2",
-      "country": "",
+      "country": "United States",
       "dateAdded": "October 13, 2021",
       "releaseYear": 2020,
-      "rating": "",
-      "duration": "",
+      "rating": "4",
+      "duration": "Two hours",
       "listedIn": "Sports",
       "description": "Cheick Kongo vs. Tim Johnson battle in a historic classic from October 2020"
     },
@@ -1779,16 +1842,7 @@
       "description": "Determined twins (Mary-Kate Olsen, Ashley Olsen) try to trick an evil aunt (Cloris Leachman) out of a magic moonstone and save their family home."
     },
     {
-      "id": "fktgipM",
-      "type": "Movie",
-      "title": "Dr. No",
-      "country": "United Kingdom",
-      "dateAdded": "October 1, 2021",
-      "releaseYear": 1962,
-      "rating": "PG",
-      "duration": "110 min",
-      "listedIn": "Action, Adventure",
-      "description": "On a mission in Jamaica, ultra-suave Agent 007 finds mad scientist Dr. No concocting a plot to derail the U.S. space program and take over the world."
+      "id": "fktgipM"
     }
   ]
 }
